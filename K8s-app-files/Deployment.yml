@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
        - name: nodejs-app
-         image: alyghazal22/nodejs-app:v2.0
+         image: abdelrahman20299/nodejs-gp:v2.0
          ports:
          - containerPort: 3000
